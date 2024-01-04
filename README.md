@@ -1,4 +1,6 @@
 here by reffreing this you can easily make the three js project i simplified this to reffer
+<img src="./ss1 (1).png" alt="Alt text" width="300" height="200">
+<img src="./ss1 (2).png" alt="Alt text" width="300" height="200">
 
 
 # three-js-website-1
