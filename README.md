@@ -1,8 +1,11 @@
-here by reffreing this you can easily make the three js project i simplified this to reffer
+
 <img src="./ss1 (1).png" alt="Alt text" width="300" height="200">
 <img src="./ss1 (2).png" alt="Alt text" width="300" height="200">
 
 
+
+
+here by reffreing this you can easily make the three js project i simplified this to reffer
 # three-js-website-1
  1 > .secene = secene in this is   container that holds all the 3D objects,
          cameras, lights, and other elements that make up a 3D environment
